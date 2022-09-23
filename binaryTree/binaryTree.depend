@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640559886 source:c:\users\mohit\desktop\codeblocks projects\binarytree\main.c
+	<stdio.h>
+	<stdlib.h>
+

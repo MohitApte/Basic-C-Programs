@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636848638 source:c:\users\mohit\desktop\codeblocks projects\preprocessorpracticalc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+

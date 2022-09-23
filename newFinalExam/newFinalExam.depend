@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639236180 source:c:\users\mohit\desktop\codeblocks projects\newfinalexam\main.c
+	<stdio.h>
+	<stdlib.h>
+

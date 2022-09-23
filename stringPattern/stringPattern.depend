@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636193020 source:c:\users\mohit\desktop\codeblocks projects\stringpattern\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

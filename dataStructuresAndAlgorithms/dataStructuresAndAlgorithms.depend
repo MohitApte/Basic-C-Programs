@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640179458 source:c:\users\mohit\desktop\codeblocks projects\datastructuresandalgorithms\main.c
+	<stdio.h>
+	<stdlib.h>
+

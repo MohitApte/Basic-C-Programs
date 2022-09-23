@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638309310 source:c:\users\mohit\desktop\codeblocks projects\patternswithgraph\main.c
+	<stdio.h>
+	<stdlib.h>
+

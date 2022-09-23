@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639860810 source:c:\users\mohit\desktop\codeblocks projects\heapsortfinale\main.c
+	<stdio.h>
+	<stdlib.h>
+

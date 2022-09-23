@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636057844 source:c:\users\mohit\desktop\codeblocks projects\newnumberpattern\main.c
+	<stdio.h>
+	<stdlib.h>
+

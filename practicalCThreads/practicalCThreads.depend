@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637184861 source:c:\users\mohit\desktop\codeblocks projects\practicalcthreads\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+

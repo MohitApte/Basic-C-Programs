@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637441048 source:c:\users\mohit\desktop\codeblocks projects\switchcase\main.c
+	<stdio.h>
+	<stdlib.h>
+
